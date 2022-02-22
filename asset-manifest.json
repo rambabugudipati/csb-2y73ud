@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rambabugudipati.github.io/csb-2y73ud/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://rambabugudipati.github.io/csb-2y73ud/static/js/main.310c48ae.chunk.js",
+    "main.js.map": "https://rambabugudipati.github.io/csb-2y73ud/static/js/main.310c48ae.chunk.js.map",
+    "runtime-main.js": "https://rambabugudipati.github.io/csb-2y73ud/static/js/runtime-main.7e151842.js",
+    "runtime-main.js.map": "https://rambabugudipati.github.io/csb-2y73ud/static/js/runtime-main.7e151842.js.map",
+    "static/js/2.de2a2d9b.chunk.js": "https://rambabugudipati.github.io/csb-2y73ud/static/js/2.de2a2d9b.chunk.js",
+    "static/js/2.de2a2d9b.chunk.js.map": "https://rambabugudipati.github.io/csb-2y73ud/static/js/2.de2a2d9b.chunk.js.map",
+    "index.html": "https://rambabugudipati.github.io/csb-2y73ud/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://rambabugudipati.github.io/csb-2y73ud/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.de2a2d9b.chunk.js.LICENSE.txt": "https://rambabugudipati.github.io/csb-2y73ud/static/js/2.de2a2d9b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e151842.js",
+    "static/js/2.de2a2d9b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.310c48ae.chunk.js"
+  ]
+}
